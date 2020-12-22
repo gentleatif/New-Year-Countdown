@@ -1,0 +1,23 @@
+body,html{
+overflow-x: hidden;
+
+}
+.maal{
+height: 100vh;
+}
+.main-color{
+  background-color: #a7c5eb;
+}
+.year{
+  font-weight: 750;
+font-size:6em;
+}
+span{
+  font-size: 3em;
+  font-style: italic;;
+}
+i{
+
+  position: relative;
+  right:30px;
+}
